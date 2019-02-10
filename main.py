@@ -12,7 +12,7 @@ data = {
 "classes": {"p": "Eiendomsord bak substantiv",
 "u": "Uttrykk der eiendomsord er foran",
 "t": "Trykk på eiendomsord => foran",
-"c": "Usikker om trykk på eiendomsord",
+"c": "Eiendomsord foran, høres best ut slik",
 "z": "Eiendomsord kunne vært bak",
 "x": "Eiendomsord burde vært bak",
 "i": "ingen substantiv",
