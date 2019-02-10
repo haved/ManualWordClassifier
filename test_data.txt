@@ -1,0 +1,7 @@
+Dette er en test
+der jeg skal matche
+min mi mitt mine din di ditt dine sin sitt sine hans hennes dens dets vår vårt våre deres dems
+Men ikke:
+miniatyr amin minmimitt
+Den skal matche:
+Den er min. Min, sier jeg!
