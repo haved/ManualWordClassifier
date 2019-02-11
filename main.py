@@ -2,9 +2,14 @@
 
 from tkinter import Tk, Text, Label, DISABLED, END, WORD
 import json
+from sys import argv
+
+if len(argv) < 2:
+    print("Expected one arg: the data name")
+    exit(1)
 
 RESULT_TAG = "RESULT_TAG"
-data_name = "sid2005"
+data_name = argv[1]
 json_file = "{}.json".format(data_name)
 
 data = {
