@@ -1,1 +1,899 @@
-{"special_char": "s", "classes": {"p": "Eiendomsord bak substantiv", "u": "Uttrykk der eiendomsord er foran", "t": "Trykk p\u00e5 eiendomsord => foran", "c": "Eiendomsord foran, h\u00f8res best ut slik", "z": "Eiendomsord kunne v\u00e6rt bak", "x": "Eiendomsord burde v\u00e6rt bak", "i": "ingen substantiv", " ": "ikke eiendomsord"}, "search_str": "\\y(min|mi|mitt|mine|din|di|ditt|dine|sin|sitt|sine|hans|hennes|dens|dets|v\u00e5r|v\u00e5rt|v\u00e5re|deres|dems)\\y", "text_pos": "1022.2701", "special": false, "kommentar": "Vi driter i \u00e5 matche 'si'", "registered": {"Eiendomsord bak substantiv": [{"pos": "14.1883", "special": false}, {"pos": "26.1619", "special": false}, {"pos": "26.2230", "special": false}, {"pos": "26.2264", "special": false}, {"pos": "26.2718", "special": false}, {"pos": "26.2798", "special": false}, {"pos": "26.3852", "special": false}, {"pos": "26.4434", "special": false}, {"pos": "26.4521", "special": false}, {"pos": "26.5149", "special": false}, {"pos": "26.5379", "special": false}, {"pos": "26.5410", "special": false}, {"pos": "37.2291", "special": false}, {"pos": "37.2657", "special": false}, {"pos": "37.3086", "special": false}, {"pos": "37.4211", "special": false}, {"pos": "82.191", "special": false}, {"pos": "82.231", "special": false}, {"pos": "82.557", "special": false}, {"pos": "82.1781", "special": false}, {"pos": "96.50", "special": false}, {"pos": "120.54", "special": false}, {"pos": "142.76", "special": false}, {"pos": "142.236", "special": false}, {"pos": "142.1729", "special": false}, {"pos": "179.232", "special": false}, {"pos": "179.927", "special": false}, {"pos": "203.1831", "special": false}, {"pos": "215.665", "special": false}, {"pos": "239.206", "special": false}, {"pos": "239.603", "special": false}, {"pos": "275.800", "special": false}, {"pos": "311.72", "special": false}, {"pos": "311.573", "special": false}, {"pos": "334.376", "special": false}, {"pos": "370.646", "special": false}, {"pos": "370.872", "special": false}, {"pos": "381.1354", "special": false}, {"pos": "405.161", "special": false}, {"pos": "405.175", "special": false}, {"pos": "405.302", "special": false}, {"pos": "405.321", "special": false}, {"pos": "428.592", "special": false}, {"pos": "441.105", "special": false}, {"pos": "441.770", "special": false}, {"pos": "453.173", "special": false}, {"pos": "453.975", "special": true}, {"pos": "465.909", "special": false}, {"pos": "465.2304", "special": false}, {"pos": "465.2469", "special": false}, {"pos": "489.393", "special": false}, {"pos": "489.1228", "special": false}, {"pos": "489.1439", "special": false}, {"pos": "491.42", "special": false}, {"pos": "503.33", "special": false}, {"pos": "525.57", "special": false}, {"pos": "525.357", "special": false}, {"pos": "525.388", "special": false}, {"pos": "525.1311", "special": false}, {"pos": "549.309", "special": false}, {"pos": "549.395", "special": false}, {"pos": "549.998", "special": false}, {"pos": "549.1059", "special": false}, {"pos": "573.808", "special": false}, {"pos": "573.1837", "special": false}, {"pos": "609.31", "special": false}, {"pos": "609.357", "special": false}, {"pos": "633.1222", "special": false}, {"pos": "645.46", "special": false}, {"pos": "645.154", "special": false}, {"pos": "645.571", "special": false}, {"pos": "645.655", "special": false}, {"pos": "693.538", "special": false}, {"pos": "706.759", "special": false}, {"pos": "706.1143", "special": false}, {"pos": "706.1210", "special": false}, {"pos": "706.1392", "special": false}, {"pos": "730.516", "special": false}, {"pos": "730.1185", "special": false}, {"pos": "742.570", "special": false}, {"pos": "742.723", "special": false}, {"pos": "755.1292", "special": false}, {"pos": "755.1312", "special": false}, {"pos": "767.697", "special": false}, {"pos": "767.1255", "special": false}, {"pos": "767.1333", "special": false}, {"pos": "767.1782", "special": false}, {"pos": "780.341", "special": false}, {"pos": "780.1791", "special": false}, {"pos": "816.537", "special": false}, {"pos": "829.1233", "special": false}, {"pos": "854.246", "special": false}, {"pos": "867.1001", "special": false}, {"pos": "879.63", "special": false}, {"pos": "879.806", "special": false}, {"pos": "879.936", "special": false}, {"pos": "879.1118", "special": false}, {"pos": "879.1189", "special": false}, {"pos": "879.2614", "special": false}, {"pos": "903.1632", "special": false}, {"pos": "951.314", "special": false}, {"pos": "975.99", "special": false}, {"pos": "986.811", "special": false}, {"pos": "986.1273", "special": false}, {"pos": "986.1960", "special": false}, {"pos": "998.48", "special": false}, {"pos": "998.438", "special": false}, {"pos": "998.529", "special": false}, {"pos": "998.618", "special": false}, {"pos": "998.1020", "special": false}, {"pos": "998.1983", "special": false}, {"pos": "1010.127", "special": false}, {"pos": "1022.203", "special": false}, {"pos": "1022.563", "special": false}, {"pos": "1022.1292", "special": false}, {"pos": "1022.1661", "special": true}], "Uttrykk der eiendomsord er foran": [{"pos": "14.170", "special": false}, {"pos": "14.2278", "special": false}, {"pos": "14.2490", "special": false}, {"pos": "142.1948", "special": true}, {"pos": "179.974", "special": false}, {"pos": "179.999", "special": false}, {"pos": "191.41", "special": false}, {"pos": "215.339", "special": false}, {"pos": "215.1321", "special": false}, {"pos": "428.437", "special": false}, {"pos": "465.609", "special": false}, {"pos": "465.2181", "special": false}, {"pos": "561.487", "special": false}, {"pos": "573.1034", "special": true}, {"pos": "621.303", "special": true}, {"pos": "693.301", "special": false}, {"pos": "693.584", "special": true}, {"pos": "755.392", "special": false}, {"pos": "867.1240", "special": false}, {"pos": "903.877", "special": false}, {"pos": "1022.810", "special": true}, {"pos": "1022.2463", "special": false}], "Trykk p\u00e5 eiendomsord => foran": [{"pos": "82.1252", "special": false}, {"pos": "215.477", "special": false}, {"pos": "215.1365", "special": false}, {"pos": "239.480", "special": false}, {"pos": "311.1281", "special": false}, {"pos": "370.1573", "special": false}, {"pos": "706.398", "special": false}, {"pos": "706.1338", "special": false}, {"pos": "767.789", "special": false}, {"pos": "767.1491", "special": false}, {"pos": "879.293", "special": false}, {"pos": "879.988", "special": false}, {"pos": "951.503", "special": false}, {"pos": "951.1316", "special": false}], "Eiendomsord foran, h\u00f8res best ut slik": [{"pos": "14.2370", "special": false}, {"pos": "14.2462", "special": false}, {"pos": "14.3606", "special": false}, {"pos": "14.3696", "special": false}, {"pos": "14.3754", "special": false}, {"pos": "26.800", "special": false}, {"pos": "26.825", "special": false}, {"pos": "26.4165", "special": false}, {"pos": "179.416", "special": false}, {"pos": "239.648", "special": false}, {"pos": "428.268", "special": false}, {"pos": "453.330", "special": false}, {"pos": "621.419", "special": false}, {"pos": "621.746", "special": false}, {"pos": "718.87", "special": false}, {"pos": "718.194", "special": false}, {"pos": "718.771", "special": false}, {"pos": "730.191", "special": false}, {"pos": "730.215", "special": false}, {"pos": "755.1357", "special": false}, {"pos": "755.1530", "special": false}, {"pos": "767.1360", "special": false}, {"pos": "780.1677", "special": false}, {"pos": "829.1614", "special": false}, {"pos": "986.1874", "special": false}], "Eiendomsord kunne v\u00e6rt bak": [{"pos": "14.4919", "special": false}, {"pos": "26.1106", "special": false}, {"pos": "26.1256", "special": false}, {"pos": "48.155", "special": false}, {"pos": "334.1134", "special": false}, {"pos": "525.1632", "special": false}, {"pos": "573.436", "special": false}, {"pos": "718.641", "special": false}, {"pos": "829.412", "special": false}, {"pos": "867.562", "special": false}, {"pos": "867.2133", "special": true}, {"pos": "1022.2614", "special": false}], "Eiendomsord burde v\u00e6rt bak": [{"pos": "14.89", "special": false}, {"pos": "14.335", "special": false}, {"pos": "14.1938", "special": false}, {"pos": "26.255", "special": false}, {"pos": "26.326", "special": false}, {"pos": "26.4243", "special": false}, {"pos": "48.2018", "special": false}, {"pos": "166.21", "special": true}, {"pos": "179.1733", "special": false}, {"pos": "441.643", "special": true}, {"pos": "441.1119", "special": false}, {"pos": "453.685", "special": false}, {"pos": "621.57", "special": true}, {"pos": "633.188", "special": true}, {"pos": "633.1496", "special": true}, {"pos": "829.656", "special": false}, {"pos": "854.510", "special": false}, {"pos": "879.2420", "special": true}], "ingen substantiv": [{"pos": "465.624", "special": true}, {"pos": "465.635", "special": false}, {"pos": "755.1019", "special": false}], "ikke eiendomsord": [{"pos": "26.4110", "special": false}, {"pos": "26.4196", "special": false}, {"pos": "142.845", "special": false}, {"pos": "227.173", "special": false}, {"pos": "465.1256", "special": false}]}}
+{
+    "classes": {
+        " ": "ikke eiendomsord",
+        "c": "Eiendomsord foran, h\u00f8res best ut slik",
+        "i": "ingen substantiv",
+        "p": "Eiendomsord bak substantiv",
+        "t": "Trykk p\u00e5 eiendomsord => foran",
+        "u": "Uttrykk der eiendomsord er foran",
+        "x": "Eiendomsord burde v\u00e6rt bak",
+        "z": "Eiendomsord kunne v\u00e6rt bak"
+    },
+    "kommentar": "Vi driter i \u00e5 matche 'si'",
+    "registered": {
+        "Eiendomsord bak substantiv": [
+            {
+                "pos": "14.1883",
+                "special": false
+            },
+            {
+                "pos": "26.1619",
+                "special": false
+            },
+            {
+                "pos": "26.2230",
+                "special": false
+            },
+            {
+                "pos": "26.2264",
+                "special": false
+            },
+            {
+                "pos": "26.2718",
+                "special": false
+            },
+            {
+                "pos": "26.2798",
+                "special": false
+            },
+            {
+                "pos": "26.3852",
+                "special": false
+            },
+            {
+                "pos": "26.4434",
+                "special": false
+            },
+            {
+                "pos": "26.4521",
+                "special": false
+            },
+            {
+                "pos": "26.5149",
+                "special": false
+            },
+            {
+                "pos": "26.5379",
+                "special": false
+            },
+            {
+                "pos": "26.5410",
+                "special": false
+            },
+            {
+                "pos": "37.2291",
+                "special": false
+            },
+            {
+                "pos": "37.2657",
+                "special": false
+            },
+            {
+                "pos": "37.3086",
+                "special": false
+            },
+            {
+                "pos": "37.4211",
+                "special": false
+            },
+            {
+                "pos": "82.191",
+                "special": false
+            },
+            {
+                "pos": "82.231",
+                "special": false
+            },
+            {
+                "pos": "82.557",
+                "special": false
+            },
+            {
+                "pos": "82.1781",
+                "special": false
+            },
+            {
+                "pos": "96.50",
+                "special": false
+            },
+            {
+                "pos": "120.54",
+                "special": false
+            },
+            {
+                "pos": "142.76",
+                "special": false
+            },
+            {
+                "pos": "142.236",
+                "special": false
+            },
+            {
+                "pos": "142.1729",
+                "special": false
+            },
+            {
+                "pos": "179.232",
+                "special": false
+            },
+            {
+                "pos": "179.927",
+                "special": false
+            },
+            {
+                "pos": "203.1831",
+                "special": false
+            },
+            {
+                "pos": "215.665",
+                "special": false
+            },
+            {
+                "pos": "239.206",
+                "special": false
+            },
+            {
+                "pos": "239.603",
+                "special": false
+            },
+            {
+                "pos": "275.800",
+                "special": false
+            },
+            {
+                "pos": "311.72",
+                "special": false
+            },
+            {
+                "pos": "311.573",
+                "special": false
+            },
+            {
+                "pos": "334.376",
+                "special": false
+            },
+            {
+                "pos": "370.646",
+                "special": false
+            },
+            {
+                "pos": "370.872",
+                "special": false
+            },
+            {
+                "pos": "381.1354",
+                "special": false
+            },
+            {
+                "pos": "405.161",
+                "special": false
+            },
+            {
+                "pos": "405.175",
+                "special": false
+            },
+            {
+                "pos": "405.302",
+                "special": false
+            },
+            {
+                "pos": "405.321",
+                "special": false
+            },
+            {
+                "pos": "428.592",
+                "special": false
+            },
+            {
+                "pos": "441.105",
+                "special": false
+            },
+            {
+                "pos": "441.770",
+                "special": false
+            },
+            {
+                "pos": "453.173",
+                "special": false
+            },
+            {
+                "pos": "453.975",
+                "special": true
+            },
+            {
+                "pos": "465.909",
+                "special": false
+            },
+            {
+                "pos": "465.2304",
+                "special": false
+            },
+            {
+                "pos": "465.2469",
+                "special": false
+            },
+            {
+                "pos": "489.393",
+                "special": false
+            },
+            {
+                "pos": "489.1228",
+                "special": false
+            },
+            {
+                "pos": "489.1439",
+                "special": false
+            },
+            {
+                "pos": "491.42",
+                "special": false
+            },
+            {
+                "pos": "503.33",
+                "special": false
+            },
+            {
+                "pos": "525.57",
+                "special": false
+            },
+            {
+                "pos": "525.357",
+                "special": false
+            },
+            {
+                "pos": "525.388",
+                "special": false
+            },
+            {
+                "pos": "525.1311",
+                "special": false
+            },
+            {
+                "pos": "549.309",
+                "special": false
+            },
+            {
+                "pos": "549.395",
+                "special": false
+            },
+            {
+                "pos": "549.998",
+                "special": false
+            },
+            {
+                "pos": "549.1059",
+                "special": false
+            },
+            {
+                "pos": "573.808",
+                "special": false
+            },
+            {
+                "pos": "573.1837",
+                "special": false
+            },
+            {
+                "pos": "609.31",
+                "special": false
+            },
+            {
+                "pos": "609.357",
+                "special": false
+            },
+            {
+                "pos": "633.1222",
+                "special": false
+            },
+            {
+                "pos": "645.46",
+                "special": false
+            },
+            {
+                "pos": "645.154",
+                "special": false
+            },
+            {
+                "pos": "645.571",
+                "special": false
+            },
+            {
+                "pos": "645.655",
+                "special": false
+            },
+            {
+                "pos": "693.538",
+                "special": false
+            },
+            {
+                "pos": "706.759",
+                "special": false
+            },
+            {
+                "pos": "706.1143",
+                "special": false
+            },
+            {
+                "pos": "706.1210",
+                "special": false
+            },
+            {
+                "pos": "706.1392",
+                "special": false
+            },
+            {
+                "pos": "730.516",
+                "special": false
+            },
+            {
+                "pos": "730.1185",
+                "special": false
+            },
+            {
+                "pos": "742.570",
+                "special": false
+            },
+            {
+                "pos": "742.723",
+                "special": false
+            },
+            {
+                "pos": "755.1292",
+                "special": false
+            },
+            {
+                "pos": "755.1312",
+                "special": false
+            },
+            {
+                "pos": "767.697",
+                "special": false
+            },
+            {
+                "pos": "767.1255",
+                "special": false
+            },
+            {
+                "pos": "767.1333",
+                "special": false
+            },
+            {
+                "pos": "767.1782",
+                "special": false
+            },
+            {
+                "pos": "780.341",
+                "special": false
+            },
+            {
+                "pos": "780.1791",
+                "special": false
+            },
+            {
+                "pos": "816.537",
+                "special": false
+            },
+            {
+                "pos": "829.1233",
+                "special": false
+            },
+            {
+                "pos": "854.246",
+                "special": false
+            },
+            {
+                "pos": "867.1001",
+                "special": false
+            },
+            {
+                "pos": "879.63",
+                "special": false
+            },
+            {
+                "pos": "879.806",
+                "special": false
+            },
+            {
+                "pos": "879.936",
+                "special": false
+            },
+            {
+                "pos": "879.1118",
+                "special": false
+            },
+            {
+                "pos": "879.1189",
+                "special": false
+            },
+            {
+                "pos": "879.2614",
+                "special": false
+            },
+            {
+                "pos": "903.1632",
+                "special": false
+            },
+            {
+                "pos": "951.314",
+                "special": false
+            },
+            {
+                "pos": "975.99",
+                "special": false
+            },
+            {
+                "pos": "986.811",
+                "special": false
+            },
+            {
+                "pos": "986.1273",
+                "special": false
+            },
+            {
+                "pos": "986.1960",
+                "special": false
+            },
+            {
+                "pos": "998.48",
+                "special": false
+            },
+            {
+                "pos": "998.438",
+                "special": false
+            },
+            {
+                "pos": "998.529",
+                "special": false
+            },
+            {
+                "pos": "998.618",
+                "special": false
+            },
+            {
+                "pos": "998.1020",
+                "special": false
+            },
+            {
+                "pos": "998.1983",
+                "special": false
+            },
+            {
+                "pos": "1010.127",
+                "special": false
+            },
+            {
+                "pos": "1022.203",
+                "special": false
+            },
+            {
+                "pos": "1022.563",
+                "special": false
+            },
+            {
+                "pos": "1022.1292",
+                "special": false
+            },
+            {
+                "pos": "1022.1661",
+                "special": true
+            }
+        ],
+        "Eiendomsord burde v\u00e6rt bak": [
+            {
+                "pos": "14.89",
+                "special": false
+            },
+            {
+                "pos": "14.335",
+                "special": false
+            },
+            {
+                "pos": "14.1938",
+                "special": false
+            },
+            {
+                "pos": "26.255",
+                "special": false
+            },
+            {
+                "pos": "26.326",
+                "special": false
+            },
+            {
+                "pos": "26.4243",
+                "special": false
+            },
+            {
+                "pos": "48.2018",
+                "special": false
+            },
+            {
+                "pos": "166.21",
+                "special": true
+            },
+            {
+                "pos": "179.1733",
+                "special": false
+            },
+            {
+                "pos": "441.643",
+                "special": true
+            },
+            {
+                "pos": "441.1119",
+                "special": false
+            },
+            {
+                "pos": "453.685",
+                "special": false
+            },
+            {
+                "pos": "621.57",
+                "special": true
+            },
+            {
+                "pos": "633.188",
+                "special": true
+            },
+            {
+                "pos": "633.1496",
+                "special": true
+            },
+            {
+                "pos": "829.656",
+                "special": false
+            },
+            {
+                "pos": "854.510",
+                "special": false
+            },
+            {
+                "pos": "879.2420",
+                "special": true
+            }
+        ],
+        "Eiendomsord foran, h\u00f8res best ut slik": [
+            {
+                "pos": "14.2370",
+                "special": false
+            },
+            {
+                "pos": "14.2462",
+                "special": false
+            },
+            {
+                "pos": "14.3606",
+                "special": false
+            },
+            {
+                "pos": "14.3696",
+                "special": false
+            },
+            {
+                "pos": "14.3754",
+                "special": false
+            },
+            {
+                "pos": "26.800",
+                "special": false
+            },
+            {
+                "pos": "26.825",
+                "special": false
+            },
+            {
+                "pos": "26.4165",
+                "special": false
+            },
+            {
+                "pos": "179.416",
+                "special": false
+            },
+            {
+                "pos": "239.648",
+                "special": false
+            },
+            {
+                "pos": "428.268",
+                "special": false
+            },
+            {
+                "pos": "453.330",
+                "special": false
+            },
+            {
+                "pos": "621.419",
+                "special": false
+            },
+            {
+                "pos": "621.746",
+                "special": false
+            },
+            {
+                "pos": "718.87",
+                "special": false
+            },
+            {
+                "pos": "718.194",
+                "special": false
+            },
+            {
+                "pos": "718.771",
+                "special": false
+            },
+            {
+                "pos": "730.191",
+                "special": false
+            },
+            {
+                "pos": "730.215",
+                "special": false
+            },
+            {
+                "pos": "755.1357",
+                "special": false
+            },
+            {
+                "pos": "755.1530",
+                "special": false
+            },
+            {
+                "pos": "767.1360",
+                "special": false
+            },
+            {
+                "pos": "780.1677",
+                "special": false
+            },
+            {
+                "pos": "829.1614",
+                "special": false
+            },
+            {
+                "pos": "986.1874",
+                "special": false
+            },
+            {
+                "pos": "1022.2701",
+                "special": false
+            }
+        ],
+        "Eiendomsord kunne v\u00e6rt bak": [
+            {
+                "pos": "14.4919",
+                "special": false
+            },
+            {
+                "pos": "26.1106",
+                "special": false
+            },
+            {
+                "pos": "26.1256",
+                "special": false
+            },
+            {
+                "pos": "48.155",
+                "special": false
+            },
+            {
+                "pos": "334.1134",
+                "special": false
+            },
+            {
+                "pos": "525.1632",
+                "special": false
+            },
+            {
+                "pos": "573.436",
+                "special": false
+            },
+            {
+                "pos": "718.641",
+                "special": false
+            },
+            {
+                "pos": "829.412",
+                "special": false
+            },
+            {
+                "pos": "867.562",
+                "special": false
+            },
+            {
+                "pos": "867.2133",
+                "special": true
+            },
+            {
+                "pos": "1022.2614",
+                "special": false
+            }
+        ],
+        "Trykk p\u00e5 eiendomsord => foran": [
+            {
+                "pos": "82.1252",
+                "special": false
+            },
+            {
+                "pos": "215.477",
+                "special": false
+            },
+            {
+                "pos": "215.1365",
+                "special": false
+            },
+            {
+                "pos": "239.480",
+                "special": false
+            },
+            {
+                "pos": "311.1281",
+                "special": false
+            },
+            {
+                "pos": "370.1573",
+                "special": false
+            },
+            {
+                "pos": "706.398",
+                "special": false
+            },
+            {
+                "pos": "706.1338",
+                "special": false
+            },
+            {
+                "pos": "767.789",
+                "special": false
+            },
+            {
+                "pos": "767.1491",
+                "special": false
+            },
+            {
+                "pos": "879.293",
+                "special": false
+            },
+            {
+                "pos": "879.988",
+                "special": false
+            },
+            {
+                "pos": "951.503",
+                "special": false
+            },
+            {
+                "pos": "951.1316",
+                "special": false
+            }
+        ],
+        "Uttrykk der eiendomsord er foran": [
+            {
+                "pos": "14.170",
+                "special": false
+            },
+            {
+                "pos": "14.2278",
+                "special": false
+            },
+            {
+                "pos": "14.2490",
+                "special": false
+            },
+            {
+                "pos": "142.1948",
+                "special": true
+            },
+            {
+                "pos": "179.974",
+                "special": false
+            },
+            {
+                "pos": "179.999",
+                "special": false
+            },
+            {
+                "pos": "191.41",
+                "special": false
+            },
+            {
+                "pos": "215.339",
+                "special": false
+            },
+            {
+                "pos": "215.1321",
+                "special": false
+            },
+            {
+                "pos": "428.437",
+                "special": false
+            },
+            {
+                "pos": "465.609",
+                "special": false
+            },
+            {
+                "pos": "465.2181",
+                "special": false
+            },
+            {
+                "pos": "561.487",
+                "special": false
+            },
+            {
+                "pos": "573.1034",
+                "special": true
+            },
+            {
+                "pos": "621.303",
+                "special": true
+            },
+            {
+                "pos": "693.301",
+                "special": false
+            },
+            {
+                "pos": "693.584",
+                "special": true
+            },
+            {
+                "pos": "755.392",
+                "special": false
+            },
+            {
+                "pos": "867.1240",
+                "special": false
+            },
+            {
+                "pos": "903.877",
+                "special": false
+            },
+            {
+                "pos": "1022.810",
+                "special": true
+            },
+            {
+                "pos": "1022.2463",
+                "special": false
+            }
+        ],
+        "ikke eiendomsord": [
+            {
+                "pos": "26.4110",
+                "special": false
+            },
+            {
+                "pos": "26.4196",
+                "special": false
+            },
+            {
+                "pos": "142.845",
+                "special": false
+            },
+            {
+                "pos": "227.173",
+                "special": false
+            },
+            {
+                "pos": "465.1256",
+                "special": false
+            }
+        ],
+        "ingen substantiv": [
+            {
+                "pos": "465.624",
+                "special": true
+            },
+            {
+                "pos": "465.635",
+                "special": false
+            },
+            {
+                "pos": "755.1019",
+                "special": false
+            }
+        ]
+    },
+    "search_str": "\\y(min|mi|mitt|mine|din|di|ditt|dine|sin|sitt|sine|hans|hennes|dens|dets|v\u00e5r|v\u00e5rt|v\u00e5re|deres|dems)\\y",
+    "special": false,
+    "special_char": "s",
+    "text_pos": "1022.3281"
+}

@@ -35,7 +35,7 @@ def main():
         all_text = ''.join(o.readlines())
 
     root = Tk()
-    
+
     text = Text(root, width=80, height=40, wrap=WORD)
     text.pack()
 
@@ -87,7 +87,7 @@ def main():
     root.mainloop()
 
     with open(json_file, "w") as outfile:
-        json.dump(data, outfile)
+        json.dump(data, outfile, sort_keys=True, indent=4)
 
 
 if __name__ == "__main__":
